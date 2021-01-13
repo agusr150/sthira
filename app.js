@@ -5,7 +5,7 @@ const cors = require('cors');
 
 
 const Router = require('./routes');
-console.log('OK')
+console.log('OK');
 app.use(cors())
 app.use(express.json())
 app.use(express.urlencoded({extended: false}))
