@@ -19,6 +19,6 @@
     "database": "d9qhde7hgq6jal",
     "host": "ec2-52-204-113-104.compute-1.amazonaws.com",
     "dialect": "postgres",
-    "ssl" : true
+    "Heroku CLI" : "heroku pg:psql postgresql-trapezoidal-49777 --app mighty-scrubland-81128"  
   }
 }
