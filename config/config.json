@@ -18,7 +18,6 @@
     "password": "edb26a99057aa73af5c3dc8d80709e087ed2cd43b8a2bac25a550a12d6fdbf49",
     "database": "d9qhde7hgq6jal",
     "host": "ec2-52-204-113-104.compute-1.amazonaws.com",
-    "dialect": "postgres",
-    "Heroku CLI" : "heroku pg:psql postgresql-trapezoidal-49777 --app mighty-scrubland-81128"  
+    "dialect": "postgres"
   }
 }
