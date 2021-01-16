@@ -14,7 +14,7 @@
     "dialect": "mysql"
   },
   "production": {
-    "DATABASE_URL" : "postgres://jxfjhjpsmqzmtz:dafd61613ff93c35559fb6271f1300e2723ffd1e21a041df1d3694d611981576@ec2-52-22-135-159.compute-1.amazonaws.com:5432/d9454v5fu1rq39",
+    "DATABASE_URL": "postgres://jxfjhjpsmqzmtz:dafd61613ff93c35559fb6271f1300e2723ffd1e21a041df1d3694d611981576@ec2-52-22-135-159.compute-1.amazonaws.com:5432/d9454v5fu1rq39",
     "dialect" : "postgres"
   }
 }
